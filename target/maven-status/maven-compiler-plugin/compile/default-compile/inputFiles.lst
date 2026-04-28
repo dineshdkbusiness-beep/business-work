@@ -1,5 +1,6 @@
 C:\FL\workspace\business.work\src\main\java\com\line\business\work\BusinessWorkApplication.java
 C:\FL\workspace\business.work\src\main\java\com\line\business\work\component\SchedulerService.java
+C:\FL\workspace\business.work\src\main\java\com\line\business\work\configuration\CorsConfig.java
 C:\FL\workspace\business.work\src\main\java\com\line\business\work\controller\AuthController.java
 C:\FL\workspace\business.work\src\main\java\com\line\business\work\controller\LoginLogoutController.java
 C:\FL\workspace\business.work\src\main\java\com\line\business\work\controller\TestController.java

@@ -11,4 +11,5 @@ com\line\business\work\entity\UserEntity$UserEntityBuilder.class
 com\line\business\work\security\JwtUtil.class
 com\line\business\work\controller\TestController.class
 com\line\business\work\entity\UserEntity.class
+com\line\business\work\configuration\CorsConfig.class
 com\line\business\work\controller\LoginLogoutController.class
